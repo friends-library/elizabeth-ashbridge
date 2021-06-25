@@ -1053,9 +1053,15 @@ Mayest thou, O God, be glorified and I abased.
 It is thy own works that praise thee; and of a truth,
 to the humble soul thou makest every bitter thing sweet.`"
 
+[.asterism]
+'''
+
 The foregoing account was written by Elizabeth Ashbridge:
 the few particulars which follow,
 were written by her last husband and sent along with it.
+
+[.small-break]
+'''
 
 Her husband had been gone two or three years before she heard of his death.
 He left her nearly eighty pounds in debt, which by law she was not obliged to pay,
@@ -1079,4 +1085,5 @@ I am resigned and enjoy a grateful composure of mind.
 She left home the 11th of the fifth month, 1753, and died in Ireland,
 the 16th of the fifth month, 1755.
 
+[.signed-section-signature]
 Aaron Ashbridge.
